@@ -1,6 +1,5 @@
-using System;
-
-namespace Domain {
+namespace Domain
+{
     public class Value
      { 
         public int Id {get;set;}
